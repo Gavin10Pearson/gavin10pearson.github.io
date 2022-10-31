@@ -1,0 +1,85 @@
+
+/* Body */
+/* Colors */
+.colors {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.colors p {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.blue {
+    display: inline-block;
+    color: white;
+    background-color: #2d5dcc;
+    padding: 15px;
+    width: 240px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.pink {
+    display: inline-block;
+    color: black;
+    background-color: #d957d9;
+    padding: 15px;
+    width: 240px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.green {
+    display: inline-block;
+    color: black;
+    background-color: #4fe0b0;
+    padding: 15px;
+    width: 240px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+.beige {
+    display: inline-block;
+    color: black;
+    background-color: #efd9ca;
+    padding: 15px;
+    width: 240px;
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+/* Fonts */
+.fonts {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
+
+.fonts h3 {
+    text-decoration: underline;
+}
+
+.item {
+    display: inline-block;
+    padding: 15px;
+    margin-right: 120px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+/* Text Styles */
+.text_styles {
+    border: 2px solid black;
+    margin: 20px;
+    padding: 10px;
+}
