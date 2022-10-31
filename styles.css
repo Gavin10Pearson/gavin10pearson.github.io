@@ -69,6 +69,18 @@
     margin-right: 120px;
 }
 
+.source_code_pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.nunito_sans {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+}
+
 .bold {
     font-weight: bold;
 }
